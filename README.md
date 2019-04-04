@@ -3,7 +3,7 @@
 
 # Conecte o seu Watson Assistant no Facebook Messenger | Connect Assistant Chatfuel
 
-Connecte o seu chatbot com [Watson Assistant](https://www.ibm.com/cloud/watson-assistant/) no [Facebook Messenger](https://developers.facebook.com/) com a plataforma do [Chatfuel](https://chatfuel.com/) e a ferramenta open source do [Node-RED](https://nodered.org/). Caso não tenha um chatbot ou não saiba como construir um, acesse e leia o [blog sobre criação de chatbot usando Watson Assistant](https://medium.com/ibmdeveloperbr/watson-assistant-como-criar-o-seu-chatbot-usando-skills-e-assistants-755b4677984b/).
+Connecte o seu chatbot com [Watson Assistant](https://www.ibm.com/cloud/watson-assistant/) no [Facebook Messenger](https://developers.facebook.com/) com a plataforma do [Chatfuel](https://chatfuel.com/) e a ferramenta open source do [Node-RED](https://nodered.org/). Caso não tenha um chatbot ou não saiba como construir um, acesse e leia o [blog sobre criação de chatbot usando Watson Assistant](https://medium.com/ibmdeveloperbr/watson-assistant-como-criar-o-seu-chatbot-usando-skills-e-assistants-755b4677984b/) e também o passo a passo de [como subir em uma página no Messenger](https://medium.com/ibmdeveloperbr/integre-seu-watson-assistant-no-facebook-via-chatfuel-925b9b20e4be).
 
 ![](https://github.com/victorshinya/connect-assistant-chatfuel/blob/master/doc/source/images/architecture.jpg)
 
