@@ -1,11 +1,13 @@
-[![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://bluemix.net)
-[![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/)
+# Conecte o seu Watson Assistant no Facebook Messenger
 
-# Conecte o seu Watson Assistant no Facebook Messenger | Connect Assistant Chatfuel
+[![IBM Cloud Powered](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
+[![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/)
+[![LICENSE](https://img.shields.io/github/license/victorshinya/connect-assistant-chatfuel)](https://github.com/victorshinya/connect-assistant-chatfuel/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/victorshinya/connect-assistant-chatfuel/pulls)
 
 Connecte o seu chatbot com [Watson Assistant](https://www.ibm.com/cloud/watson-assistant/) no [Facebook Messenger](https://developers.facebook.com/) com a plataforma do [Chatfuel](https://chatfuel.com/) e a ferramenta open source do [Node-RED](https://nodered.org/). Caso não tenha um chatbot ou não saiba como construir um, acesse e leia o [blog sobre criação de chatbot usando Watson Assistant](https://medium.com/ibmdeveloperbr/watson-assistant-como-criar-o-seu-chatbot-usando-skills-e-assistants-755b4677984b/) e também o passo a passo de [como subir em uma página no Messenger](https://medium.com/ibmdeveloperbr/integre-seu-watson-assistant-no-facebook-via-chatfuel-925b9b20e4be).
 
-![](https://github.com/victorshinya/connect-assistant-chatfuel/blob/master/doc/source/images/architecture.jpg)
+![Architecture Design](doc/source/images/architecture.jpg)
 
 ## Componentes e tecnologias usadas
 
@@ -37,4 +39,4 @@ cd connect-assistant-chatfuel
 
 MIT License
 
-Copyright (c) 2018 Victor Kazuyuki Shinya
+Copyright (c) 2021 Victor Kazuyuki Shinya
